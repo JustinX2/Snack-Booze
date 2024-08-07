@@ -29,19 +29,19 @@
       "serve": "Immediately."
     },
     {
-      "id": "asd",
-      "name": "asd",
-      "description": "asd",
-      "recipe": "asd",
-      "serve": "asd",
+      "id": "coke",
+      "name": "coke",
+      "description": "coke",
+      "recipe": "open coke",
+      "serve": "Immediately.",
       "type": "drinks"
     },
     {
-      "id": "asfasf",
-      "name": "asfasf",
-      "description": "asfasfasf",
-      "recipe": "asfasfasf",
-      "serve": "asfasfasfasfas",
+      "id": "pepsi",
+      "name": "pepsi",
+      "description": "pepsi",
+      "recipe": "open pepsi",
+      "serve": "Immediately.",
       "type": "drinks"
     }
   ],
@@ -68,11 +68,11 @@
       "serve": "Place on tiny, precious little plates."
     },
     {
-      "id": "asdasd",
-      "name": "asdasd",
-      "description": "asdas",
-      "recipe": "asdasd",
-      "serve": "asdasd",
+      "id": "candy",
+      "name": "candy",
+      "description": "sweet candy",
+      "recipe": "sugar",
+      "serve": "Immediately.",
       "type": "snacks"
     }
   ]
